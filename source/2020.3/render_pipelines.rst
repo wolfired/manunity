@@ -4,7 +4,7 @@
 
 渲染管线执行一系列获取场景内容的操作，并把它们显示到屏幕。
 
-.. figure:: _static/hdrp-scene-template.png
+.. figure:: _static/img/hdrp-scene-template.png
    :scale: 100%
    :alt: map to buried treasure
 
@@ -13,7 +13,7 @@
 本节本节包含以下信息：
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    render_pipelines_overview
    srp_setting_render_pipeline_asset

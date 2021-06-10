@@ -4,14 +4,14 @@
 
 一个 **着色器** 程序，通常简称着色器，是一个运行在GPU上的程序。着色器程序通常用于渲染，它们通过设置 **像素** 的颜色来决定一个应用程序的外观。
 
-.. figure:: _static/shaders-example.png
+.. figure:: _static/img/shaders-example.png
    :scale: 100%
    :alt: map to buried treasure
 
 手册的这一章内容包含以下主题：
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    ShadersOverview
    shader_built_in

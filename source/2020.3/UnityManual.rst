@@ -3,7 +3,7 @@
 .. __: https://docs.unity3d.com/2020.3/Documentation/Manual/UnityManual.html
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    ManualVersions
    SwitchingDocumentationVersions
